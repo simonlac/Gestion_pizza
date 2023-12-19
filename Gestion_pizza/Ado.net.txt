@@ -1,0 +1,9 @@
+﻿bonjour Madame J'ai manqué de temps pour ajouter la section ado.net direct et il y avait des problèmes à trouver le serveur
+alors voici les étapes pour intégrer la base de données 
+tu commence par ajouter un élément ado.net entity data model
+ensuite tu choisi l'option de droite avec le code first
+ensuite tu entre le serveur qui apparaît et tu mets le nom de la base de donnée qui a été crée
+après tu choisi le mode direct
+ensuite dans les dataviewvtu peut choisir les options que tu veux.
+par exemple tu choisi ajouter et supprimer pour Ajout pizza et modifier pour modifiercommande
+et tu ajoute la prcédure pour le afficher
